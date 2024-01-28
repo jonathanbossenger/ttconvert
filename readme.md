@@ -1,6 +1,6 @@
 # Requirements
 
-- https://github.com/sandflow/ttconv
+- You must have https://github.com/sandflow/ttconv installed on your system
 
 # Installation
 
